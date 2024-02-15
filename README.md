@@ -15,13 +15,13 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,postman" />
   </a>
-  <h3>Version control:</h3>
+  <h3>Version control</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
   </a>
-  <h3>Others: </h3>
+  <h3>Others</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,linux,vscode,eclipse,md" />
+    <img src="https://skillicons.dev/icons?i=bash,linux" />
   </a>
 </p>
 </div>
