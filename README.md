@@ -9,19 +9,19 @@
 <h2>Programming languages:</h2>
 <h3>Frontend</h3>
   <a>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,angular,threejs,nodejs" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,angular,threejs" />
   </a>
   <h3>Backend</h3>
   <a>
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,postman" />
-  </a>
-  <h3>Version control</h3>
-  <a>
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres" />
   </a>
   <h3>Others</h3>
   <a>
-    <img src="https://skillicons.dev/icons?i=bash,linux" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,git" />
+  </a>
+  <h3>Currently studying</h3>
+  <a>
+    <img src="https://skillicons.dev/icons?i=react,nodejs,mongo" />
   </a>
 </p>
 </div>
