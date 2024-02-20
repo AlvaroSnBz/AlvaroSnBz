@@ -8,19 +8,19 @@
 
 <h2>Programming languages:</h2>
 <h3>Frontend</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,javascript,css,angular,threejs,nodejs" />
+  <a>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,angular,threejs,nodejs" />
   </a>
   <h3>Backend</h3>
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,postman" />
   </a>
   <h3>Version control</h3>
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
   </a>
   <h3>Others</h3>
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=bash,linux" />
   </a>
 </p>
