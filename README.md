@@ -18,9 +18,5 @@
   <a>
     <img src="https://skillicons.dev/icons?i=linux,bash,git" />
   </a>
-  <h3>Currently studying</h3>
-  <a>
-    <img src="https://skillicons.dev/icons?i=react,nodejs,mongo,cpp" />
-  </a>
 </p>
 </div>
